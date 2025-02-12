@@ -1,0 +1,7 @@
+{
+    "api_id": "your_api_id",
+    "api_hash": "your_api_hash",
+    "bot_token": "your_telegram_token_Bot",
+    "owner_id": id_chat_owner,
+    "adfly_api_token": "your_adfly.cc_api_token"
+}
