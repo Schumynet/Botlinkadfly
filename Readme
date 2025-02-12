@@ -1,0 +1,16 @@
+istruzioni di utilizzo 
+1)installazione requisiti 
+
+        pip install -r requirements.txt
+
+2) compilare i dati nel config.json
+         api id, api hash, token_bot, api_token_adfly.cc
+
+3) avviare il create_db.py
+
+           python create_db.py
+
+4) avviare il bot con il commando 
+
+           python main.py
+      
